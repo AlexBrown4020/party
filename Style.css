@@ -1,0 +1,31 @@
+/* Keep this rule in style.css */
+body {
+    font-size: 200%;
+  }
+  
+.top {
+  display: flex;
+  flex-direction:row;
+  justify-content:space-around;
+  background-color: burlywood;
+  box-shadow: 2px 2px 2px gray;
+}
+
+.main {
+  display:flex;
+  flex-direction: row;
+  background-color:cornsilk;
+}
+
+#speechbubble {
+  display: flex;
+
+}
+#inSpeech {
+display:flex;
+}
+
+.wrapper {
+  display:flex;
+  justify-content:space-between
+}
